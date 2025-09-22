@@ -1,24 +1,6 @@
 # Network Analysis: Nmap & Wireshark
 
-This repository contains my hands-on practice with **Nmap** and **Wireshark** for network scanning and traffic analysis. It documents scans, packet captures, and key observations for educational purposes.
-
-## Repository Structure
-
-network-analysis/
-│
-├─ Nmap/
-│ ├─ nmap_scan1.png
-│ ├─ nmap_notes.txt
-│ └─ summary.md
-│
-├─ Wireshark/
-│ ├─ capture1.png
-│ ├─ capture2.png
-│ ├─ capture3.png
-│ ├─ wireshark_notes.txt
-│ └─ summary.md
-│
-└─ README.md
+This repository contains my hands-on practice with **Nmap** and **Wireshark** for network scanning and traffic analysis. It documents scans, packet captures, and key observations for educational purposes
 
 
 - **Nmap/** – Contains screenshots and notes from network scanning exercises. See `summary.md` for a detailed overview of all scans.  
@@ -63,6 +45,7 @@ network-analysis/
 
 - [Nmap Official Documentation](https://nmap.org/book/man.html)  
 - [Wireshark Official Documentation](https://www.wireshark.org/docs/)  
+
 
 
 
